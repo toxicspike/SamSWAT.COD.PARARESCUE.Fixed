@@ -1,0 +1,143 @@
+{
+	"manifest": [
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/arms_mp_western_milsim_pj_1_1/mp_western_vm_arms_milsim_pj_1_1_textures.bundle",
+			"dependencyKeys": []
+        },
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/body_mp_western_milsim_pj_1_1/mp_western_milsim_pj_1_1_textures.bundle",
+			"dependencyKeys": []
+        },
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/body_mp_western_milsim_pj_1_1/mp_western_milsim_pj_1_1_patches_textures.bundle",
+			"dependencyKeys": []
+        },
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/gear_mp_western_milsim_pj_1_1/rig_mp_western_milsim_pj_1_1_textures.bundle",
+			"dependencyKeys": []
+        },
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/arms_mp_western_milsim_pj_1_1/mp_western_vm_arms_milsim_pj_1_1_materials.bundle",
+			"dependencyKeys": [
+                "assets/content/mp_western_milsim_pj_1_1/arms_mp_western_milsim_pj_1_1/mp_western_vm_arms_milsim_pj_1_1_textures.bundle",
+                "shaders",
+                "cubemaps"
+            ]
+        },
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/body_mp_western_milsim_pj_1_1/mp_western_milsim_pj_1_1_materials.bundle",
+			"dependencyKeys": [
+                "assets/content/mp_western_milsim_pj_1_1/body_mp_western_milsim_pj_1_1/mp_western_milsim_pj_1_1_textures.bundle",
+                "assets/content/mp_western_milsim_pj_1_1/body_mp_western_milsim_pj_1_1/mp_western_milsim_pj_1_1_patches_textures.bundle",
+                "shaders",
+                "cubemaps"
+            ]
+        },
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/gear_mp_western_milsim_pj_1_1/rig_mp_western_milsim_pj_1_1_materials.bundle",
+			"dependencyKeys": [
+                "assets/content/mp_western_milsim_pj_1_1/gear_mp_western_milsim_pj_1_1/rig_mp_western_milsim_pj_1_1_textures.bundle",
+                "shaders",
+                "cubemaps"
+            ]
+        },
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/arms_mp_western_milsim_pj_1_1/mp_western_vm_arms_milsim_pj_1_1.bundle",
+			"dependencyKeys": [
+                "assets/content/mp_western_milsim_pj_1_1/arms_mp_western_milsim_pj_1_1/mp_western_vm_arms_milsim_pj_1_1_materials.bundle"
+            ]
+        },
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/body_mp_western_milsim_pj_1_1/mp_western_milsim_pj_1_1_upper.bundle",
+			"dependencyKeys": [
+                "assets/content/mp_western_milsim_pj_1_1/body_mp_western_milsim_pj_1_1/mp_western_milsim_pj_1_1_materials.bundle"
+            ]
+        },
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/body_mp_western_milsim_pj_1_1/mp_western_milsim_pj_1_1_lower.bundle",
+			"dependencyKeys": [
+                "assets/content/mp_western_milsim_pj_1_1/body_mp_western_milsim_pj_1_1/mp_western_milsim_pj_1_1_materials.bundle"
+            ]
+        },
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/parts_wristwear_mp_watch_s_a_vm/parts_wristwear_mp_watch_s_a_vm.bundle",
+			"dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/content/mp_western_milsim_pj_1_1/arms_mp_western_milsim_pj_1_1/mp_western_vm_arms_milsim_pj_1_1_textures.bundle"
+            ]
+        },
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/gear_mp_western_milsim_pj_1_1/rig_mp_western_milsim_pj_1_1.bundle",
+			"dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/mp_western_milsim_pj_1_1/body_mp_western_milsim_pj_1_1/mp_western_milsim_pj_1_1_materials.bundle",
+                "assets/content/mp_western_milsim_pj_1_1/gear_mp_western_milsim_pj_1_1/rig_mp_western_milsim_pj_1_1_materials.bundle"
+            ]
+        },
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/gear_mp_western_milsim_pj_1_1/minimap_mp_western_milsim_pj_1_1.bundle",
+			"dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/mp_western_milsim_pj_1_1/body_mp_western_milsim_pj_1_1/mp_western_milsim_pj_1_1_materials.bundle"
+            ]
+        },
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/gear_mp_western_milsim_pj_1_1/scarf_mp_western_milsim_pj_1_1.bundle",
+			"dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/mp_western_milsim_pj_1_1/body_mp_western_milsim_pj_1_1/mp_western_milsim_pj_1_1_materials.bundle"
+            ]
+        },
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/gear_mp_western_milsim_pj_1_1/helmet_mp_western_milsim_pj_1_1.bundle",
+			"dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "shaders",
+                "cubemaps"
+            ]
+        },
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/gear_mp_western_milsim_pj_1_1/headset_mp_western_milsim_pj_1_1.bundle",
+			"dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "shaders",
+                "cubemaps"
+            ]
+        },
+		{
+			"key": "assets/content/mp_western_milsim_pj_1_1/gear_mp_western_milsim_pj_1_1/batterypack_mp_western_milsim_pj_1_1.bundle",
+			"dependencyKeys": [
+                "assets/content/mp_western_milsim_pj_1_1/body_mp_western_milsim_pj_1_1/mp_western_milsim_pj_1_1_materials.bundle",
+                "assets/content/mp_western_milsim_pj_1_1/gear_mp_western_milsim_pj_1_1/rig_mp_western_milsim_pj_1_1_materials.bundle",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+			"key": "assets/content/mp_western_milsim_pj_1_1/gear_mp_western_milsim_pj_1_1/helmetlight_mp_western_milsim_pj_1_1.bundle",
+			"dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+			"key": "assets/content/mp_western_milsim_pj_1_1/gear_mp_western_milsim_pj_1_1/ms2000_mp_western_milsim_pj_1_1.bundle",
+			"dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "shaders",
+                "cubemaps"
+            ]
+        },
+        {
+			"key": "assets/content/mp_western_milsim_pj_1_1/gear_mp_western_milsim_pj_1_1/glasses_mp_western_milsim_pj_1_1.bundle",
+			"dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "shaders",
+                "cubemaps"
+            ]
+        }
+    ]
+}

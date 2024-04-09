@@ -1,0 +1,49 @@
+{
+    "Items": [
+        {
+            "Id": "rig_mp_western_milsim_pj_1_1",
+            "ParentId": "5b5f6f8786f77447ed563642",
+            "Price": 68688
+        },
+        {
+            "Id": "minimap_mp_western_milsim_pj_1_1",
+            "ParentId": "5b5f6f6c86f774093f2ecf0b",
+            "Price": 1843
+        },
+        {
+            "Id": "scarf_mp_western_milsim_pj_1_1",
+            "ParentId": "5b47574386f77428ca22b32f",
+            "Price": 4258
+        },
+        {
+            "Id": "helmet_mp_western_milsim_pj_1_1",
+            "ParentId": "5b47574386f77428ca22b330",
+            "Price": 130976
+        },
+        {
+            "Id": "headset_mp_western_milsim_pj_1_1",
+            "ParentId": "5b5f6f3c86f774094242ef87",
+            "Price": 21709
+        },
+        {
+            "Id": "batterypack_mp_western_milsim_pj_1_1",
+            "ParentId": "5b5f704686f77447ec5d76d7",
+            "Price": 1500
+        },
+        {
+            "Id": "helmetlight_mp_western_milsim_pj_1_1",
+            "ParentId": "5b5f704686f77447ec5d76d7",
+            "Price": 1500
+        },
+        {
+            "Id": "ms2000_mp_western_milsim_pj_1_1",
+            "ParentId": "5b47574386f77428ca22b345",
+            "Price": 5923
+        },
+        {
+            "Id": "glasses_mp_western_milsim_pj_1_1",
+            "ParentId": "5b47574386f77428ca22b331",
+            "Price": 1669
+        }
+    ]
+}

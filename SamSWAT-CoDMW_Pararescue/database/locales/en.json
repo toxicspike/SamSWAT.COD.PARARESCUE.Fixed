@@ -1,0 +1,59 @@
+{
+	"templates": {
+		"PARARESCUEUPPERBODYSUIT": {
+			"Name": "Mil-Sim: Pararescue Upper"
+		},
+		"PARARESCUEUPPERBODYSUIT2": {
+			"Name": "Mil-Sim: Pararescue Hands only"
+		},
+		"PARARESCUEPANTSSUIT": {
+			"Name": "Mil-Sim: Pararescue Lower"
+		},
+		
+		"rig_mp_western_milsim_pj_1_1": {
+			"Name": "Mil-Sim: Pararescue I armored rig",
+			"ShortName": "Pararescue arm. rig",
+			"Description": "Tactical rig with additional 4-class armor plates used by Mil-Sim: Pararescue operator."
+		},
+		"minimap_mp_western_milsim_pj_1_1": {
+			"Name": "Mil-Sim: Pararescue I molle backpack",
+			"ShortName": "Pararescue backpack",
+			"Description": "Tactical molle backpack that can be attached at the back of the rig used by Mil-Sim: Pararescue operator."
+		},
+		"scarf_mp_western_milsim_pj_1_1": {
+			"Name": "Mil-Sim: Pararescue I scarf",
+			"ShortName": "Scarf",
+			"Description": "Simple neck scarf used by Mil-Sim: Pararescue operator."
+		},
+		"helmet_mp_western_milsim_pj_1_1": {
+			"Name": "Mil-Sim: Pararescue I helmet",
+			"ShortName": "Par. helmet",
+			"Description": "Ballistic helmet with a variety of attachments used by Mil-Sim: Pararescue operator."
+		},
+		"headset_mp_western_milsim_pj_1_1": {
+			"Name": "Mil-Sim: Pararescue I headset",
+			"ShortName": "Headset",
+			"Description": "Active headset used by Mil-Sim: Pararescue operator."
+		},
+		"batterypack_mp_western_milsim_pj_1_1": {
+			"Name": "Mil-Sim: Pararescue I battery pouch",
+			"ShortName": "Bat. pouch",
+			"Description": "Tactical helmet battery pouch for secure carrying of an IFF strobe or combat tourniquet, exterior loops for chemlights and loop pile surfaces for unit patches or other hooks & loop accessories used by Mil-Sim: Pararescue operator."
+		},
+		"helmetlight_mp_western_milsim_pj_1_1": {
+			"Name": "Mil-Sim: Pararescue I dummy helmet light",
+			"ShortName": "Light",
+			"Description": "Dummy light that can be attached to the helmet used by Mil-Sim: Pararescue operator."
+		},
+		"ms2000_mp_western_milsim_pj_1_1": {
+			"Name": "MS2000 Marker",
+			"ShortName": "MS2000",
+			"Description": "The marker is used by Mil-Sim: Pararescue operator during nighttime operations. It emits signal in the IR region which are visible through NVGs. Uses special filter when operating in the IR mode, if the filter is removed, it appears as a bright flash in the visible spectrum. In the extended mode operates with a blue flash."
+		},
+		"glasses_mp_western_milsim_pj_1_1": {
+			"Name": "Tactical glasses",
+			"ShortName": "TGlasses",
+			"Description": "Tactical glasses with glare and impact protection used by Mil-Sim: Pararescue operator."
+		}
+	}
+}
