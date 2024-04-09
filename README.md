@@ -9,8 +9,9 @@
 This mod was originally made by <a href="https://github.com/SamSWAT911">SamSWAT911</a>.
 
 In their absence, I have decided to update his CTSFO mod for 3.8. 
-  
-![145](https://github.com/toxicspike/BreadcrumbsSamSWAT.COD.PARARESCUE/assets/10299219/91d06e9a-c3b8-4b16-af85-9084444b35ca)
+
+![381](https://github.com/toxicspike/BreadcrumbsSamSWAT.COD.PARARESCUE/assets/10299219/142c69cd-3e41-46db-85ff-cd3857fbccc2)
+
 
 
 # MIL-SIM: Pararescue
