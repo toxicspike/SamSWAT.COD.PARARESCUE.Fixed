@@ -582,7 +582,7 @@
             "Weight": 0.4,
             "BackgroundColor": "violet",
             "Width": 3,
-            "Height": 6,
+            "Height": 4,
             "StackMaxSize": 1,
             "ItemSound": "gear_backpack",
             "Prefab": {
@@ -652,7 +652,7 @@
                             }
                         ],
                         "cellsH": 3,
-                        "cellsV": 4,
+                        "cellsV": 6,
                         "minCount": 0,
                         "maxCount": 0,
                         "maxWeight": 0,
