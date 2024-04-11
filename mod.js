@@ -10,7 +10,7 @@ class Mod {
         const locales = db.locales.global;
         const items = db.templates.items;
 
-        mydb = await importerUtil.loadRecursiveAsync(`${modLoader.getModPath("SamSWAT.COD.PARARESCUE.Fixed-3.8.0")}database/`);
+        mydb = await importerUtil.loadRecursiveAsync(`${modLoader.getModPath("SamSWAT.COD.PARARESCUE.Fixed")}database/`);
         db.templates.items["55d7217a4bdc2d86028b456d"]._props.Slots[5]._props.filters[0].Filter.push("helmet_mp_western_milsim_pj_1_1");
         db.templates.items["55d7217a4bdc2d86028b456d"]._props.Slots[13]._props.filters[0].Filter.push("glasses_mp_western_milsim_pj_1_1");
 
